@@ -24,7 +24,7 @@ Power Query - Data Cleaning and Transformation
 - Other: Organic Choco Syrup, Manuka Honey Choco, Eclairs, etc.
 
 ## Regional Performance
- Region     Revenue         
+ Region &  Revenue         
  Americas = $10.55M         
  APAC   =    $23.60M         
  Europe   =  $10.54M         
