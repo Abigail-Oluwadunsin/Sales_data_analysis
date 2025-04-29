@@ -28,7 +28,7 @@ Power Query - Data Cleaning and Transformation
  Americas = $10.55M         
  APAC   =    $23.60M         
  Europe   =  $10.54M         
- Total     $44.69M    
+ Total  =   $44.69M    
 
 ## How to Use
 1. Download this repository
